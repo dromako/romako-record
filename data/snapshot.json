@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T00:15:55+00:00",
+  "generated_at": "2026-07-02T02:03:51+00:00",
   "generated_date": "2026-07-01",
   "tracking_since": "2026-07-01",
   "status": "ok",
@@ -36,7 +36,7 @@
       "delta_week": 0
     },
     "leads_closed": {
-      "value": 24,
+      "value": 23,
       "label": "Leads resolved or ruled out",
       "delta_total": 0,
       "delta_week": 0
@@ -48,43 +48,43 @@
       "delta_week": 0
     }
   },
-  "welcome": "Welcome, family. This is a living exhibit of where our shared history stands \u2014 the people, the places they came from, the journeys they made, and the small human details worth passing around the table.",
+  "welcome": "Nothing on this page is invented. Every story below traces to a record with a date on it \u2014 a ship manifest, a parish register, a census sheet, a courthouse file \u2014 and where something is still a lead rather than a fact, it says so.",
   "hero": {
     "tag": "Featured story",
-    "era": "Germany \u00b7 1800s",
-    "title": "Bread for a royal household, and a village that vanished",
-    "body": "On our German side, the <strong>Zarges family lived on the grounds of a Hohenzollern royal estate</strong> near a village called Basdorf. The grandfather tended sheep and baked bread in a great outdoor oven for the imperial household. Then the almost fairy-tale ending: after the family sailed for America, <strong>Basdorf was flooded to build a reservoir</strong> \u2014 the village they left behind now rests underwater.",
+    "era": "Waldeck, Germany \u00b7 1800s",
+    "title": "The village under the lake",
+    "body": "Zarges family memory says the grandfather worked a titled family's estate in Germany \u2014 tending sheep and baking bread in a big outdoor oven for the household \u2014 and that after the family sailed for America, their village of Basdorf was flooded for a reservoir. The records are starting to catch up with the memory: Zarges births cluster around <strong>Basdorf and Helsen, near Bad Arolsen</strong> \u2014 the seat of the Princes of Waldeck \u2014 and the Eder valley just south of there was dammed and flooded between 1908 and 1914. The lake is still there. Whether the family's Basdorf lies under it is one of the questions we are working.",
     "graphic": "estate",
     "image": null,
-    "image_caption": "A Zarges family photograph would be perfect here."
+    "image_caption": null
   },
   "journey": {
     "tag": "The crossing",
     "title": "From a Baltic port to a Pennsylvania coal town",
-    "body": "In the spring of 1910, John Romejko Sr. left the parish country northeast of Vilnius, boarded the steamship <em>Lituania</em> at the Baltic port of Libau, and crossed the Atlantic to New York \u2014 reaching Ellis Island on 30 March. From there the family moved inland to the anthracite coal town of Shenandoah, Pennsylvania.",
+    "body": "In March 1910, John Romejko Sr. left the parish country northeast of Vilnius and boarded the steamship <em>Lituania</em> at Libau, on the Baltic coast of what is now Latvia. The manifest lists him as <em>Iwan Romeiko</em>, nineteen years old. He landed at Ellis Island on 30 March and went where the work was: Shenandoah, Pennsylvania \u2014 anthracite country \u2014 where his naturalization papers place him on South Cotton Street by 1913.",
     "route": [
       {
         "place": "Buivyd\u017eiai",
-        "note": "home parish, near Vilnius"
+        "note": "the parish country we are searching, northeast of Vilnius"
       },
       {
         "place": "Libau (Liep\u0101ja)",
-        "note": "Baltic port of departure"
+        "note": "port of departure, March 1910"
       },
       {
         "place": "New York",
-        "note": "arrived 30 March 1910"
+        "note": "Ellis Island, 30 March 1910"
       },
       {
         "place": "Shenandoah, PA",
-        "note": "a new life in coal country"
+        "note": "on South Cotton Street by 1913"
       }
     ]
   },
   "timeline": [
     {
       "year": 1770,
-      "label": "Stranford forebears born in Ireland"
+      "label": "Thomas Stranford and Mary Rogers born in Ireland"
     },
     {
       "year": 1795,
@@ -96,11 +96,11 @@
     },
     {
       "year": 1910,
-      "label": "Atlantic crossing aboard the Lituania"
+      "label": "John crosses on the Lituania, Libau to New York"
     },
     {
       "year": 1916,
-      "label": "John Sr. becomes a U.S. citizen"
+      "label": "John Sr. sworn in as a U.S. citizen"
     },
     {
       "year": 1922,
@@ -110,43 +110,43 @@
   "facts": [
     {
       "id": "deepest-root",
-      "tag": "Our oldest known ancestor",
+      "tag": "The oldest name on the tree",
       "era": "born 1795",
-      "title": "The trail reaches Ulster",
-      "body": "The furthest-back person we can stand behind is <strong>John Stranford, born March 1795 in County Londonderry, Ireland</strong> \u2014 an Ulster immigrant who died in 1855 in Pennsylvania, and your fourth-great-grandfather. His own parents, born around 1770, are already on the tree.",
-      "graphic": "tower",
+      "title": "The trail ends, for now, in Ulster",
+      "body": "The deepest documented root is <strong>John Stranford \u2014 born March 1795 in County Londonderry, Ireland</strong>, died 1855 in Venango County, Pennsylvania. His parents, Thomas Stranford and Mary Rogers, born around 1770, sit at the current edge of the line. Getting past them means Ulster parish registers, not American records \u2014 that is the next climb.",
+      "graphic": "ulster",
       "side": "left",
       "image": null,
       "image_caption": null
     },
     {
       "id": "saloon-witnesses",
-      "tag": "A detail we love",
+      "tag": "From the naturalization file",
       "era": "Shenandoah \u00b7 1916",
       "title": "Sworn in by the saloon keeper",
-      "body": "When John Romejko Sr. became a U.S. citizen in the coal town of Shenandoah in 1916, the two men who vouched for him weren't lawyers \u2014 they were neighbors. One, <strong>John Dzienis, ran a saloon on South Main Street</strong>. In an immigrant coal town, the corner tavern was the heart of the community.",
-      "graphic": "coaltown",
+      "body": "Citizenship took two witnesses willing to swear to your character. In June 1916, John Romejko Sr. brought <strong>John Dzienis, who kept a saloon at 121 South Main Street</strong>, and a neighbor, Peter Alenaucz. No lawyers. In a town like Shenandoah, the man whose word carried weight was the one behind the bar.",
+      "graphic": "saloon",
       "side": "right",
       "image": null,
       "image_caption": null
     },
     {
-      "id": "draft-cards",
-      "tag": "Called to serve",
-      "era": "1940\u20131942",
-      "title": "Two brothers register for war",
-      "body": "Wartime draft cards surfaced for <strong>John Aloysius Romako (born 1914) and Joseph Bernard Romako (born 1922)</strong>, both born in Shenandoah. The cards even record their height and build \u2014 small, human snapshots of who these men were on the day they signed.",
-      "graphic": "draftcard",
+      "id": "lloyd-street",
+      "tag": "After the worst years",
+      "era": "Shenandoah \u00b7 1935\u20131949",
+      "title": "The house on West Lloyd Street",
+      "body": "Jonathan Romejko died in 1935; his wife Josephine in 1938. Their son Joseph, still a schoolboy, went to his grandmother <strong>Antoinette at 210 West Lloyd Street</strong> \u2014 the 1940 census taker wrote him down as her 'nephew'; the 1950 census corrected it to 'grandson.' From that address he registered for the wartime draft, and in 1949 the <em>Republican &amp; Herald</em> printed his Penn State graduation notice. Home address in the paper: still 210 West Lloyd.",
+      "graphic": "rowhouse",
       "side": "left",
       "image": null,
       "image_caption": null
     },
     {
       "id": "korsak-szlachta",
-      "tag": "A thread worth pulling",
-      "era": "old Poland-Lithuania",
-      "title": "A possible noble clan",
-      "body": "One promising \u2014 still unproven \u2014 lead points the Korsak name toward the <strong>Korsak <em>szlachta</em>, the old Polish-Lithuanian nobility</strong>, listed in Boniecki's classic armorial of Polish gentry. Nothing confirmed yet, but exactly the kind of thread that makes you keep digging.",
+      "tag": "An open lead",
+      "era": "Polish\u2013Lithuanian Commonwealth",
+      "title": "The Korsak name in the armorials",
+      "body": "<strong>Korsak</strong> is a documented <em>szlachta</em> (noble) clan in Boniecki's armorial of Polish-Lithuanian gentry, with recorded members in the Vilnius lands \u2014 the same region where Alexander Korsack swore he was born. The geography fits; the lineage is unproven. Until a parish record ties our Korsacks to the clan, this stays a lead, not an ancestor.",
       "graphic": "shield",
       "side": "right",
       "image": null,
@@ -169,7 +169,7 @@
       "lines": 5,
       "citations": 35,
       "leads_open": 6,
-      "leads_closed": 24,
+      "leads_closed": 23,
       "sessions": 19
     }
   ]
