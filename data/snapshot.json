@@ -1,0 +1,176 @@
+{
+  "generated_at": "2026-07-02T00:15:55+00:00",
+  "generated_date": "2026-07-01",
+  "tracking_since": "2026-07-01",
+  "status": "ok",
+  "earliest_year": 1610,
+  "metrics": {
+    "people": {
+      "value": 496,
+      "label": "People on the tree",
+      "delta_total": 0,
+      "delta_week": 0
+    },
+    "families": {
+      "value": 152,
+      "label": "Family groups",
+      "delta_total": 0,
+      "delta_week": 0
+    },
+    "lines": {
+      "value": 5,
+      "label": "Family lines mapped",
+      "delta_total": 0,
+      "delta_week": 0
+    },
+    "citations": {
+      "value": 35,
+      "label": "Records & documents cited",
+      "delta_total": 0,
+      "delta_week": 0
+    },
+    "leads_open": {
+      "value": 6,
+      "label": "Active research leads",
+      "delta_total": 0,
+      "delta_week": 0
+    },
+    "leads_closed": {
+      "value": 24,
+      "label": "Leads resolved or ruled out",
+      "delta_total": 0,
+      "delta_week": 0
+    },
+    "sessions": {
+      "value": 19,
+      "label": "Research sessions logged",
+      "delta_total": 0,
+      "delta_week": 0
+    }
+  },
+  "welcome": "Welcome, family. This is a living exhibit of where our shared history stands \u2014 the people, the places they came from, the journeys they made, and the small human details worth passing around the table.",
+  "hero": {
+    "tag": "Featured story",
+    "era": "Germany \u00b7 1800s",
+    "title": "Bread for a royal household, and a village that vanished",
+    "body": "On our German side, the <strong>Zarges family lived on the grounds of a Hohenzollern royal estate</strong> near a village called Basdorf. The grandfather tended sheep and baked bread in a great outdoor oven for the imperial household. Then the almost fairy-tale ending: after the family sailed for America, <strong>Basdorf was flooded to build a reservoir</strong> \u2014 the village they left behind now rests underwater.",
+    "graphic": "estate",
+    "image": null,
+    "image_caption": "A Zarges family photograph would be perfect here."
+  },
+  "journey": {
+    "tag": "The crossing",
+    "title": "From a Baltic port to a Pennsylvania coal town",
+    "body": "In the spring of 1910, John Romejko Sr. left the parish country northeast of Vilnius, boarded the steamship <em>Lituania</em> at the Baltic port of Libau, and crossed the Atlantic to New York \u2014 reaching Ellis Island on 30 March. From there the family moved inland to the anthracite coal town of Shenandoah, Pennsylvania.",
+    "route": [
+      {
+        "place": "Buivyd\u017eiai",
+        "note": "home parish, near Vilnius"
+      },
+      {
+        "place": "Libau (Liep\u0101ja)",
+        "note": "Baltic port of departure"
+      },
+      {
+        "place": "New York",
+        "note": "arrived 30 March 1910"
+      },
+      {
+        "place": "Shenandoah, PA",
+        "note": "a new life in coal country"
+      }
+    ]
+  },
+  "timeline": [
+    {
+      "year": 1770,
+      "label": "Stranford forebears born in Ireland"
+    },
+    {
+      "year": 1795,
+      "label": "John Stranford born in County Londonderry"
+    },
+    {
+      "year": 1890,
+      "label": "John Romejko Sr. born near Vilnius"
+    },
+    {
+      "year": 1910,
+      "label": "Atlantic crossing aboard the Lituania"
+    },
+    {
+      "year": 1916,
+      "label": "John Sr. becomes a U.S. citizen"
+    },
+    {
+      "year": 1922,
+      "label": "Joseph B. Romako born in Shenandoah"
+    }
+  ],
+  "facts": [
+    {
+      "id": "deepest-root",
+      "tag": "Our oldest known ancestor",
+      "era": "born 1795",
+      "title": "The trail reaches Ulster",
+      "body": "The furthest-back person we can stand behind is <strong>John Stranford, born March 1795 in County Londonderry, Ireland</strong> \u2014 an Ulster immigrant who died in 1855 in Pennsylvania, and your fourth-great-grandfather. His own parents, born around 1770, are already on the tree.",
+      "graphic": "tower",
+      "side": "left",
+      "image": null,
+      "image_caption": null
+    },
+    {
+      "id": "saloon-witnesses",
+      "tag": "A detail we love",
+      "era": "Shenandoah \u00b7 1916",
+      "title": "Sworn in by the saloon keeper",
+      "body": "When John Romejko Sr. became a U.S. citizen in the coal town of Shenandoah in 1916, the two men who vouched for him weren't lawyers \u2014 they were neighbors. One, <strong>John Dzienis, ran a saloon on South Main Street</strong>. In an immigrant coal town, the corner tavern was the heart of the community.",
+      "graphic": "coaltown",
+      "side": "right",
+      "image": null,
+      "image_caption": null
+    },
+    {
+      "id": "draft-cards",
+      "tag": "Called to serve",
+      "era": "1940\u20131942",
+      "title": "Two brothers register for war",
+      "body": "Wartime draft cards surfaced for <strong>John Aloysius Romako (born 1914) and Joseph Bernard Romako (born 1922)</strong>, both born in Shenandoah. The cards even record their height and build \u2014 small, human snapshots of who these men were on the day they signed.",
+      "graphic": "draftcard",
+      "side": "left",
+      "image": null,
+      "image_caption": null
+    },
+    {
+      "id": "korsak-szlachta",
+      "tag": "A thread worth pulling",
+      "era": "old Poland-Lithuania",
+      "title": "A possible noble clan",
+      "body": "One promising \u2014 still unproven \u2014 lead points the Korsak name toward the <strong>Korsak <em>szlachta</em>, the old Polish-Lithuanian nobility</strong>, listed in Boniecki's classic armorial of Polish gentry. Nothing confirmed yet, but exactly the kind of thread that makes you keep digging.",
+      "graphic": "shield",
+      "side": "right",
+      "image": null,
+      "image_caption": null
+    }
+  ],
+  "region": {
+    "name": "Buivyd\u017eiai, Lithuania",
+    "blurb": "The Romejko and Korsack lines trace back toward this little parish town (Polish: Bujwidze), northeast of Vilnius, in what was then the Russian Empire. We are searching its 19th-century church registers page by page for the family's baptisms.",
+    "map_label": "Vilnius region \u00b7 former Wilno gubernia",
+    "image": "media/buivydziai-register-1890.jpg",
+    "image_caption": "A page from the 1890 Buivyd\u017eiai parish baptism register (Lithuanian State Historical Archives, Fund 1399) \u2014 the kind of record we read line by line, in Cyrillic script.",
+    "graphic": "locator"
+  },
+  "history": [
+    {
+      "date": "2026-07-01",
+      "people": 496,
+      "families": 152,
+      "lines": 5,
+      "citations": 35,
+      "leads_open": 6,
+      "leads_closed": 24,
+      "sessions": 19
+    }
+  ]
+}
